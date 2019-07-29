@@ -1,0 +1,20 @@
+{
+  "FeatureEventName": "GDG DevFest SF 2019",
+  "EventImage": "IWD.jpg",
+  "EventDate": {
+    "Date": "21",
+    "Month": "9",
+    "Year": "2019"
+  },
+  "EventTime": {
+    "StartTime": "09:00 AM",
+    "EndTime": "05:00 PM"
+  },
+  "EventVenue": "Google Developers Launchpad Space, 1st Floor, 543 Howard St 1st Floor, San Francisco, CA 94105",
+  "EventVenueMapLink": "https://goo.gl/maps/ZWLQGxydLPCczm1G7",
+  "EventWebsite": "https://iwd.gdgcloudsf.com/",
+  "EventDescription": "GDG DevFest San Francisco returns on September 21st at the Google Launchpad and Galvanize. Join developers, students, mentors, and tech companies for the biggest community organized Google developer conference in SF.",
+  "MeetupLink": "",
+  "RegistrationLink": "https://www.eventbrite.com/e/gdg-devfest-san-francisco-2019-tickets-64690601330",
+  "FBEventPageURL": ""
+}

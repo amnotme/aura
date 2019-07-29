@@ -1,0 +1,29 @@
+[
+    {
+        "name":"Leopoldo Hernandez",
+        "designation":"Software Developer",
+        "twitter":"https://twitter.com/dacodingpanda",
+        "linkedin":"https://www.linkedin.com/in/leopoldo-hernandez",
+        "github":"https://github.com/amnotme",
+        "profileImage":"lhernand.png",
+        "website":""
+    },
+    {
+        "name":"Annie Ho",
+        "designation":"Software Developer",
+	"twitter":"",
+        "linkedin":"https://www.linkedin.com/in/missannieho",
+        "github":"https://github.com/annieholly",
+        "profileImage":"aho.png",
+        "website":""
+    },
+    {
+        "name":"Stuti Patel",
+        "designation":"Software Developer",
+        "twitter":"https://twitter.com/stuti_patel8",
+        "linkedin":"https://www.linkedin.com/in/stutip",
+	"github":"",
+        "profileImage":"stuti.jpeg",
+        "website":""
+    }
+]

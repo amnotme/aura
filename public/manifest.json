@@ -1,0 +1,21 @@
+{
+  "name": "GDG Fremont",
+  "short_name": "GDG Fremont",
+  "icons": [
+    {
+      "src": "./img/icons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/icons/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffff",
+  "theme_color": "#0277bd",
+  "description": "Google Developers Group Fremont is an initiative to concentrate the efforts of many developers in and around Fremont to learn, share and get productive using the various Google and Open source products around cloud and machine learning."
+}
