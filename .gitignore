@@ -5,6 +5,7 @@ tempKey.js
 src/config/
 .firebase/
 
+src/config/key.js
 # local env files
 .env.local
 .env.*.local
